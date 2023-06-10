@@ -3,3 +3,5 @@
 /observerController.class
 /AppObserver.class
 /observer.fxml
+/ColorAspect.class
+/ColorChangeObserver.class
